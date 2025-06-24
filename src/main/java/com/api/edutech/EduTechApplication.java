@@ -1,0 +1,12 @@
+package com.api.edutech;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EduTechApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(EduTechApplication.class, args);
+    }
+}
