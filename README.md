@@ -32,3 +32,4 @@ Este microservicio forma parte de un sistema distribuido basado en microservicio
 ## 📄 Documentación Swagger
 
 Accede desde:
+http://localhost:8080/swagger-ui/index.html
