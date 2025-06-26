@@ -67,7 +67,7 @@ public class PagoController {
 
         // Verificación de ID de curso con otro microservicio
         String idCurso = pago.getIdCurso();
-        String urlVerificacion = "http://localhost:8080/api/cursos/" + idCurso;
+        String urlVerificacion = "http://cursos:8082/api/cursos/" + idCurso;
 
         try {
             ResponseEntity<Void> respuesta = restTemplate.getForEntity(urlVerificacion, Void.class);

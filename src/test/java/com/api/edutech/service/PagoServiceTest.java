@@ -1,3 +1,5 @@
+package com.api.edutech.service;
+
 import com.api.edutech.model.Pago;
 import com.api.edutech.repository.PagoRepository;
 import com.api.edutech.service.PagoService;
