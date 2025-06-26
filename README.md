@@ -30,6 +30,7 @@ Este microservicio forma parte de un sistema distribuido basado en microservicio
 - `/api/v2/cupones/{id}`: detalle de cupon
 
 ## 📄 Documentación Swagger
-
-Accede desde:
 http://localhost:8080/swagger-ui/index.html
+
+## 📄 Documentación completa
+https://edutech-1.gitbook.io/edutech-documentacion
